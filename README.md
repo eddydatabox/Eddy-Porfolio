@@ -1,7 +1,7 @@
 # Eddy_Porfolio
-Sample portfolio
+I'm edde and this portolio for data projects
 
-# Analyzing Tabular Data using Python and Pandas
+# Project 1: Stack Overflow Exploratory Data Analysis 
 
 ### How to run the code
 
@@ -9,14 +9,17 @@ This tutorial is an executable [Jupyter notebook](https://jupyter.org) hosted on
 
 #### Option 1: Running using free online resources (1-click, recommended)
 
-The easiest way to start executing the code is to click the **Run** button at the top of this page and select **Run on Binder**. You can also select "Run on Colab" or "Run on Kaggle", but you'll need to create an account on [Google Colab](https://colab.research.google.com) or [Kaggle](https://kaggle.com) to use these platforms.
-
+The easiest way to start executing the code is to click the **Run** button at the top of this page and select **Run on Binder**. You can also select "Run on Colab" or "Run on Kaggle", but you'll need to create an account on [Google Colab](https://colab.research.google.com).
 This tutorial covers the following topics:
 
 - Reading a CSV file into a Pandas data frame
 - Retrieving data from Pandas data frames
 - Querying, soring, and analyzing data
-- Merging, grouping, and aggregation of data
-- Extracting useful information from dates
-- Basic plotting using line and bar charts
-- Writing data frames to CSV files
+
+# Project 2: Simple Used Car Price Prediction Model
+#### Option 1: Running using free online resources (1-click, recommended)
+
+The easiest way to start executing the code is to click the **Run** button at the top.
+- Reading a CSV file into a Pandas data frame
+- Retrieving data from Pandas data frames
+- Querying, soring, and analyzing data
