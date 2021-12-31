@@ -4,7 +4,7 @@ I'm edde and this portolio for data projects
 # Project 1: Stack Overflow Exploratory Data Analysis 
 
 ### Subtitle for Stack Overflow
-
+![](https://github.com/eddydatabox/Eddy-s_Porfolio/blob/main/images/housesbanner.png)
 This are the results for the 2021 Stack Overflow Survey released every.[Jupyter notebook](https://jupyter.org) hosted on [Jovian](https://www.jovian.ai). We explore the data to get a sense of the experience, income, popular languages and countries of the programmers surveyed _run_ this tutorial and experiment with the code examples in a couple of ways: *using free online resources* (recommended) or *on your computer*.
 
 #### Option 1: Running using free online resources (1-click, recommended)
@@ -18,6 +18,7 @@ This tutorial covers the following topics:
 
 # Project 2: Simple Used Car Price Prediction Model
 #### Option 1: Running using free online resources (1-click, recommended)
+![](https://github.com/eddydatabox/Eddy-s_Porfolio/blob/main/images/store_sales_revenue-1.png)
 
 The easiest way to start executing the code is to click the **Run** button at the top.
 - Reading a CSV file into a Pandas data frame
