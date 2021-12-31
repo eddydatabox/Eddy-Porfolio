@@ -3,9 +3,9 @@ I'm edde and this portolio for data projects
 
 # Project 1: Stack Overflow Exploratory Data Analysis 
 
-### How to run the code
+### Subtitle for Stack Overflow
 
-This tutorial is an executable [Jupyter notebook](https://jupyter.org) hosted on [Jovian](https://www.jovian.ai). You can _run_ this tutorial and experiment with the code examples in a couple of ways: *using free online resources* (recommended) or *on your computer*.
+This are the results for the 2021 Stack Overflow Survey released every.[Jupyter notebook](https://jupyter.org) hosted on [Jovian](https://www.jovian.ai). We explore the data to get a sense of the experience, income, popular languages and countries of the programmers surveyed _run_ this tutorial and experiment with the code examples in a couple of ways: *using free online resources* (recommended) or *on your computer*.
 
 #### Option 1: Running using free online resources (1-click, recommended)
 
