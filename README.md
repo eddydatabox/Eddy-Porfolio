@@ -1,4 +1,5 @@
-# Eddy_Porfolio
+# Eddy Porfolio
+![](images/Eddy%20Thumb.jpg)
 I'm edde and this portolio for data projects
 
 # Project 1: Stack Overflow Exploratory Data Analysis 
