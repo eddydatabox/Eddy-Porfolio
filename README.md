@@ -1,5 +1,5 @@
 # Eddy Porfolio
-<img src="https://github.com/eddydatabox/Eddy_Porfolio/blob/main/images/Eddy%20Thumb.jpg" alt="drawing" width="150"/>
+
 I'm eddy and this portolio for data projects
 
 # Project 1: Stack Overflow Exploratory Data Analysis 
