@@ -12,8 +12,3 @@ This are the results for the 2021 Stack Overflow Survey released every.[Jupyter 
 # Project 2: Sales - EDA
 #### Option 1: Running using free online resources (1-click, recommended)
 ![](images/store_sales_revenue-1.png)
-
-The easiest way to start executing the code is to click the **Run** button at the top.
-- Reading a CSV file into a Pandas data frame
-- Retrieving data from Pandas data frames
-- Querying, soring, and analyzing data
